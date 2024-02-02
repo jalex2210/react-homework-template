@@ -1,0 +1,6 @@
+.friend__list {
+  display: flex;
+  flex-direction: column;
+  row-gap: 8px;
+  font-size: 48px;
+}
